@@ -1,0 +1,106 @@
+body {
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: #533c91;
+  margin-top: 30px;
+  height: 100px;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #b3b3b3;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: right;
+  color: #f2f7f7;
+  font-size: 14px;
+  padding: 10px 16px;
+}
+
+h1 {
+  text-align: center;
+  color: #fbf366;
+  font-size: 60px;
+}
+
+img {
+  width: 300px;
+}
+
+.company li {
+  float: left;
+  font-size: 24px;
+}
+
+.roundedSquare {
+  background-color: #68fbda; 
+  display: inline-block;
+  border-radius: 25px;
+  height: 200px;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.regSquare {
+  background-color: #fcbd67;
+  display: inline-block;
+  height: 200px;
+  width: 350px;
+  margin-top: 30px;
+}
+
+.bottom {
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.container {
+  overflow: hidden;
+}
+
+#titleBackground {
+  background-color: #000000;
+  margin-top: 0;
+  padding: 100px;
+}
+
+#leftSquare {
+  float: left;
+  margin-left: 60px;
+}
+
+#centerSquare {
+  margin-left: 11%;
+}
+
+#rightSquare {
+  float: right;
+  margin-right: 60px;
+}
+
+#regSq1 {
+  float: left;
+  margin-left: 60px;
+}
+
+#regSq2 {
+  float: right;
+  margin-right: 60px;
+}
+
+#paragraph {
+  float: left;
+  width: 40%;
+  padding-left: 30px;
+}
+
+#picture {
+  float: right;
+  width: 40%;
+}
